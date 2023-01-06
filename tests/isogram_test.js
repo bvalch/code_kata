@@ -1,4 +1,4 @@
-const isogramFunction=require('../solutions/isogram.js')
+const isogramFunction=require('../solutions/cw_isogram.js')
 const assert=require("assert");
 
 describe("Test isograms",function(){
